@@ -1,11 +1,15 @@
 {
-  "name": "tareas-aplicaciones-hibridas",
+  "name": "tareas-semana-tres",
   "version": "1.0.0",
-  "description": "",
+  "description": "El desafío de esta semana: Primer servidor con Node",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Fernanda Paoliello",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "url a github: https://github.com/fernandapao/tareas-aplicaciones-hibridas"
+  }
 }
