@@ -1,7 +1,7 @@
 {
-  "name": "tareas-semana-cuatro",
+  "name": "tareas-semana-cinco",
   "version": "1.0.0",
-  "description": "El desafío de esta semana: Crear un servidor con Express.js",
+  "description": "El desafío de esta semana: Estructura de proyecto con el patrón MVC",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -14,7 +14,5 @@
     "type": "git",
     "url": "url a github: https://github.com/fernandapao/tareas-aplicaciones-hibridas"
   },
-  "dependencies": {
-    "express": "^4.21.0"
-  }
+  "keywords": []
 }
