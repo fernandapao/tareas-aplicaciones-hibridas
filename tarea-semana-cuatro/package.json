@@ -1,0 +1,20 @@
+{
+  "name": "tareas-semana-cuatro",
+  "version": "1.0.0",
+  "description": "El desafío de esta semana: Primer servidor con Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Fernanda Paoliello",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "url a github: https://github.com/fernandapao/tareas-aplicaciones-hibridas"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
