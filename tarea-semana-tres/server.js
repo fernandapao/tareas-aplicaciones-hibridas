@@ -8,7 +8,7 @@ const port = 3000;
 const server = http.createServer((req, res) => {
     if (req.url === '/alumno') {
         res.writeHead(200, { 'Content-Type': 'text/plain' });
-        res.end('Nombre: Fernanda Paoliello, Comisión: DWN4AV');
+        res.end('Nombre: Fernanda Paoliello, Comision: DWN4AV');
     } else if (req.url === '/info') {
         const systemInfo = {
             platform: os.platform(),
