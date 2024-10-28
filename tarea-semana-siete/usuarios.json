@@ -1,9 +1,11 @@
-{"_id":{"$oid":"671fe127cbcb4bce06218bd4"},"nombre":"Carlos","apellido":"Pérez","edad":30,"email":"carlos.perez@example.com","direccion":{"calle":"Calle 1","ciudad":"Madrid","codigo_postal":"28001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bd5"},"nombre":"Ana","apellido":"Martínez","edad":25,"email":"ana.martinez@example.com","direccion":{"calle":"Calle 2","ciudad":"Barcelona","codigo_postal":"08001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bd6"},"nombre":"Luis","apellido":"González","edad":35,"email":"luis.gonzalez@example.com","direccion":{"calle":"Calle 3","ciudad":"Sevilla","codigo_postal":"41001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bd7"},"nombre":"María","apellido":"Rodríguez","edad":28,"email":"maria.rodriguez@example.com","direccion":{"calle":"Calle 4","ciudad":"Bilbao","codigo_postal":"48001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bd8"},"nombre":"José","apellido":"López","edad":40,"email":"jose.lopez@example.com","direccion":{"calle":"Calle 5","ciudad":"Valencia","codigo_postal":"46001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bd9"},"nombre":"Lucía","apellido":"Hernández","edad":22,"email":"lucia.hernandez@example.com","direccion":{"calle":"Calle 6","ciudad":"Granada","codigo_postal":"18001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bda"},"nombre":"Javier","apellido":"Sánchez","edad":29,"email":"javier.sanchez@example.com","direccion":{"calle":"Calle 7","ciudad":"Málaga","codigo_postal":"29001"}}
-{"_id":{"$oid":"671fe127cbcb4bce06218bdb"},"nombre":"Marta","apellido":"Fernández","edad":31,"email":"marta.fernandez@example.com","direccion":{"calle":"Calle 8","ciudad":"Alicante","codigo_postal":"03001"}}
+[
+{"_id":{"$oid":"671fe127cbcb4bce06218bd4"},"nombre":"Carlos","apellido":"Pérez","edad":30,"email":"carlos.perez@example.com","direccion":{"calle":"Calle 1","ciudad":"Madrid","codigo_postal":"28001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bd5"},"nombre":"Ana","apellido":"Martínez","edad":25,"email":"ana.martinez@example.com","direccion":{"calle":"Calle 2","ciudad":"Barcelona","codigo_postal":"08001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bd6"},"nombre":"Luis","apellido":"González","edad":35,"email":"luis.gonzalez@example.com","direccion":{"calle":"Calle 3","ciudad":"Sevilla","codigo_postal":"41001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bd7"},"nombre":"María","apellido":"Rodríguez","edad":28,"email":"maria.rodriguez@example.com","direccion":{"calle":"Calle 4","ciudad":"Bilbao","codigo_postal":"48001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bd8"},"nombre":"José","apellido":"López","edad":40,"email":"jose.lopez@example.com","direccion":{"calle":"Calle 5","ciudad":"Valencia","codigo_postal":"46001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bd9"},"nombre":"Lucía","apellido":"Hernández","edad":22,"email":"lucia.hernandez@example.com","direccion":{"calle":"Calle 6","ciudad":"Granada","codigo_postal":"18001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bda"},"nombre":"Javier","apellido":"Sánchez","edad":29,"email":"javier.sanchez@example.com","direccion":{"calle":"Calle 7","ciudad":"Málaga","codigo_postal":"29001"}},
+{"_id":{"$oid":"671fe127cbcb4bce06218bdb"},"nombre":"Marta","apellido":"Fernández","edad":31,"email":"marta.fernandez@example.com","direccion":{"calle":"Calle 8","ciudad":"Alicante","codigo_postal":"03001"}},
 {"_id":{"$oid":"671fe127cbcb4bce06218bdd"},"nombre":"Elena","apellido":"Torres","edad":26,"email":"elena.torres@example.com","direccion":{"calle":"Calle 10","ciudad":"Valladolid","codigo_postal":"47001"}}
+]
