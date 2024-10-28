@@ -1,0 +1,25 @@
+{
+  "name": "tareas-semana-cinco",
+  "version": "1.0.0",
+  "description": "El desafío de esta semana: Estructura de proyecto con el patrón MVC",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "Fernanda Paoliello",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "url a github: https://github.com/fernandapao/tareas-aplicaciones-hibridas"
+  },
+  "keywords": [],
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4"
+  }
+}
